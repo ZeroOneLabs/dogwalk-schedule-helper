@@ -1,0 +1,88 @@
+{
+    "03-11": [
+        {
+            "morning_walks": [
+                {
+                    "time": "7AM",
+                    "desc": "Chance of rain: 38% (25.07°)"
+                },
+                {
+                    "time": "8AM",
+                    "desc": "Chance of rain: 27% (25.59°)"
+                },
+                {
+                    "time": "9AM",
+                    "desc": "Chance of rain: 19% (26.51°)"
+                },
+                {
+                    "time": "10AM",
+                    "desc": "Chance of rain: 17% (27.73°)"
+                }
+            ]
+        },
+        {
+            "midday_walks": [
+                {
+                    "time": "3PM",
+                    "desc": "No rain (overcast clouds) @ 32.4°"
+                },
+                {
+                    "time": "4PM",
+                    "desc": "No rain (overcast clouds) @ 29.97°"
+                },
+                {
+                    "time": "5PM",
+                    "desc": "No rain (overcast clouds) @ 27.37°"
+                },
+                {
+                    "time": "6PM",
+                    "desc": "No rain (overcast clouds) @ 25°"
+                }
+            ]
+        },
+        {
+            "night_walks": [
+                {
+                    "time": "9PM",
+                    "desc": "No rain (broken clouds) @ 19.65°"
+                },
+                {
+                    "time": "10PM",
+                    "desc": "No rain (broken clouds) @ 18.32°"
+                },
+                {
+                    "time": "11PM",
+                    "desc": "No rain (scattered clouds) @ 16.61°"
+                }
+            ]
+        }
+    ],
+    "03-12": [
+        {
+            "morning_walks": [
+                {
+                    "time": "7AM",
+                    "desc": "No rain (scattered clouds) @ 11.19°"
+                },
+                {
+                    "time": "8AM",
+                    "desc": "No rain (scattered clouds) @ 11.44°"
+                },
+                {
+                    "time": "9AM",
+                    "desc": "No rain (scattered clouds) @ 12.65°"
+                },
+                {
+                    "time": "10AM",
+                    "desc": "No rain (scattered clouds) @ 14.04°"
+                }
+            ]
+        },
+        {
+            "midday_walks": []
+        },
+        {
+            "night_walks": []
+        }
+    ]
+}
