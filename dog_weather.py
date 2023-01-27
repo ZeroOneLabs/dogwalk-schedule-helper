@@ -4,7 +4,8 @@ from datetime import datetime
 
 weather_url = "https://home.openweathermap.org/"
 
-import weather_secret
+# Store your OpenWeatherMap API key and coordinates in a separate file.
+import weather_secret 
 weather_key = weather_secret.weather_key
 latitude = weather_secret.latitude
 longitude = weather_secret.longitude

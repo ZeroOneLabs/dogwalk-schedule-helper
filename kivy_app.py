@@ -8,6 +8,10 @@ from kivymd.uix.toolbar import MDToolbar
 
 import dog_weather
 
+'''
+Idea to use the app in a Kivy Python phone app.
+'''
+
 # On load and button press: Load weather data func
 def load_weather_data():
     # INIT UI elements (clear text from all fields)
